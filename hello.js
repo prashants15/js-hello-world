@@ -4,7 +4,17 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("'Hello, World!'")
+//console.log"'Hello, World!'"; //2
+//console.log 'Hello, World!'";//3
+console.log("'Hello, World!'") //4
+console.log(500); //5
+console.log( "Addition of ", "5 + 5" ,"is", 5+5); //5 
+console.log("Life is beautiful" + "" , "Code it!");
+console.log(" My favourite places are:" )//6 two lines
+console.log("Pune \n New York \n Florida");
+console.log("Welcome to", '"ST Louis"'); //8
+
 
 /*  
 Next, PLAY! 
